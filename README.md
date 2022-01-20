@@ -13,4 +13,4 @@ Nodemcu Output
 Relay     -> GPIO3, GPIO12
 
 # Author
-Sagita 2021
+massagita 2021
